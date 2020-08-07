@@ -55,8 +55,6 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JayJhaveri1906&show_icons=true&hide_border=true" />
-
 [steam]: https://steamcommunity.com/id/JayJhaveri1906/
 <!--[website]: https://codeSTACKr.com-->
 [twitterMHM]: https://twitter.com/HealthMessiah
