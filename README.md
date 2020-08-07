@@ -54,6 +54,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+<img align="left" alt="JayJhaveri1906's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JayJhaveri1906&show_icons=true&hide_border=true" />
 
 [steam]: https://steamcommunity.com/id/JayJhaveri1906/
 <!--[website]: https://codeSTACKr.com-->
@@ -66,7 +67,7 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0-->
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=JayJhaveri1906)](https://github.com/JayJhaveri1906/github-readme-stats)
+
 
 <!--
 **JayJhaveri1906/JayJhaveri1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
