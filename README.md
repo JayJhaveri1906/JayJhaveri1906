@@ -43,6 +43,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mental Health Messiah - A twitter bot for Sentimental Analysis of Covid19 Tweets.](https://www.youtube.com/watch?v=t_qRhyT68vM)
+- [Twitter Sentimental analysis on Covid19 Tweets with a visualisation Dashboard](https://www.youtube.com/watch?v=6VqK6cLwGZQ)
+- [Automatic Number Plate Recognition system - Automated Parking](https://www.youtube.com/watch?v=i64AUqCuKV8)
+- [Social Distancing app with a touch of yoga(Healthy While Distant)](https://www.youtube.com/watch?v=uJne7uuiEUM)
+- [Pandemics! A Harsh Reality :(](https://www.youtube.com/watch?v=_IF3PlJBwh4)
 <!-- YOUTUBE:END -->
 
 ---
