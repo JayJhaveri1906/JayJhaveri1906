@@ -1,7 +1,7 @@
-### Hi there, I'm Jay - aka [ConsoleBotTryPC][steam] 👋
+### Hi there, I'm Jay - aka [ConsoleBotTrysPC][steam] 👋
 
 ## I'm a Student, Developer, Gamer!
-- 🔭 I’m currently working on Mental Health Messiah[twitterMHM]!
+- 🔭 I’m currently working on Mental Health Messiah [twitterMHM]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Do something different than last year
 - 🎮 Fun fact: I love to play games
