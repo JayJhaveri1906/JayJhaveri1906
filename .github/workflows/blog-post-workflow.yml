@@ -1,13 +1,13 @@
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-name: Latest yt vids
+
+name: Latest Youtube Videos
+
 on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
-  workflow_dispatch
+  workflow_dispatch:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest yt
