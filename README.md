@@ -1,6 +1,6 @@
 ### Hi there, I'm Jay - aka [ConsoleBotTryPC][steam] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Student, Developer, Gamer!
 - 🔭 I’m currently working on Mental Health Messiah[twitterMHM]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Do something different than last year
@@ -56,6 +56,7 @@
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JayJhaveri1906&show_icons=true&hide_border=true" />
+
 [steam]: https://steamcommunity.com/id/JayJhaveri1906/
 <!--[website]: https://codeSTACKr.com-->
 [twitterMHM]: https://twitter.com/HealthMessiah
