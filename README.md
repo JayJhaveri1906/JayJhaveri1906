@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, Gamer!
 - 🔭 I’m currently working on [Mental Health Messiah!][twitterMHM]
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😂
 - 🥅 2020 Goals: Do something different than last year
 - 🎮 Fun fact: I love to play games
 
