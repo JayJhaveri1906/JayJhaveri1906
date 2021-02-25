@@ -1,4 +1,4 @@
-### Hi there, I'm Jay - aka [ConsoleBotTrysPC2[steam] 👋
+### Hi there, I'm Jay - aka [ConsoleBotTrysPC2](https://steamcommunity.com/id/JayJhaveri1906/) 👋
 
 ## I'm a Student, Developer, Gamer!
 - 🔭 I’m currently working on [Mental Health Messiah!][twitterMHM]
