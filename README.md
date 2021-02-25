@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, Gamer!
 - 🔭 I’m currently working on [Mental Health Messiah!][twitterMHM]
 - 🌱 I’m currently learning everything 😂
-- 🥅 2020 Goals: Do something different than last year
+- 🥅 2021 Goals: Do something different than last year
 - 🎮 Fun fact: I love to play games
 
 ### Connect with me:
@@ -38,7 +38,8 @@
 <br />
 <br />
 -->
-
+---
+My CERTIFICATES/ACHIEVEMENTS are available [here](https://github.com/JayJhaveri1906/Certificates)
 ---
 
 ### 📺 Latest YouTube Videos
