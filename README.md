@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, Gamer!
 - 🔭 I’m currently working on [Aatmanirbhar Sanchar: Self-Sufficient Communications!][twitterMHM]
 - 🌱 I’m currently learning everything 😂
-- 🥅 2021 Goals: Do something different than last year
+- 🥅 2022 Goals: Do something different than last year
 - 🎮 Fun fact: I love to play games
 
 ### Connect with me:
