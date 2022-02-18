@@ -1,7 +1,7 @@
 ### Hi there, I'm Jay - aka [ConsoleBotTrysPC2](https://steamcommunity.com/id/JayJhaveri1906/) 👋
 
 ## I'm a Student, Developer, Gamer!
-- 🔭 I’m currently working on [Mental Health Messiah!][twitterMHM]
+- 🔭 I’m currently working on [Aatmanirbhar Sanchar: Self-Sufficient Communications!][twitterMHM]
 - 🌱 I’m currently learning everything 😂
 - 🥅 2021 Goals: Do something different than last year
 - 🎮 Fun fact: I love to play games
@@ -67,7 +67,7 @@ My CERTIFICATES/ACHIEVEMENTS are available [here](https://github.com/JayJhaveri1
 
 [steam]: https://steamcommunity.com/id/JayJhaveri1906/
 <!--[website]: https://codeSTACKr.com-->
-[twitterMHM]: https://twitter.com/HealthMessiah
+[twitterMHM]: https://github.com/JayJhaveri1906/Aatmanirbhar-Sanchar
 [twitter]: https://twitter.com/Jay_Jhaveri1906
 [youtube]: https://www.youtube.com/channel/UCINzDDZPKuOpgzDYNNmE6Lw
 [instagram]: https://www.instagram.com/jayjhaveri1906/
