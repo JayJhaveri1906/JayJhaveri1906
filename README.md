@@ -1,10 +1,11 @@
 ### Hi there, I'm Jay - aka [ConsoleBotTrysPC2](https://steamcommunity.com/id/JayJhaveri1906/) 👋
 
 ## I'm a Student, Developer, Gamer!
-- 🔭 I’m currently working on [Aatmanirbhar Sanchar: Self-Sufficient Communications!][twitterMHM]
+- 📖 Pursuing Masters in Computer Science at UCSD
+- 🔭 Most recent project and publication: [Aatmanirbhar Sanchar: Self-Sufficient Communications!][twitterMHM]
 - 🌱 I’m currently learning everything 😂
 - 🥅 2022 Goals: Do something different than last year
-- 🎮 Fun fact: I love to play games
+- 🎮 Fun fact: I love to play games and follow F1
 
 ### Connect with me:
 
