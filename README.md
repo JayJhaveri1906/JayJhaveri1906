@@ -72,7 +72,7 @@ My CERTIFICATES/ACHIEVEMENTS are available [here](https://github.com/JayJhaveri1
 [twitter]: https://twitter.com/Jay_Jhaveri1906
 [youtube]: https://www.youtube.com/channel/UCINzDDZPKuOpgzDYNNmE6Lw
 [instagram]: https://www.instagram.com/jayjhaveri1906/
-[linkedin]: https://www.linkedin.com/in/jay-jhaveri-6a8165184/
+[linkedin]: https://www.linkedin.com/in/jayjhaveri1906/
 <!--[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
