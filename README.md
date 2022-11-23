@@ -47,13 +47,25 @@ My CERTIFICATES/ACHIEVEMENTS are available [here](https://github.com/JayJhaveri1
 
 ---
 
+### 📝 Research Papers
+<!-- YOUTUBE:START -->
+- [Aatmanirbhar Sanchar: Self-Sufficient Communications (In Press)](https://www.springer.com/series/16845)
+- [Divya-Drishti: An Independent Aid for the Visually Impaired](https://dx.doi.org/10.2139/ssrn.3867707)
+- [Machine Learning Based Prediction of H1N1 and Seasonal Flu Vaccination](https://doi.org/10.1007/978-981-16-0401-0_11)
+<!-- - [Twitter Sentimental analysis on Covid19 Tweets with a visualisation Dashboard](https://www.youtube.com/watch?v=6VqK6cLwGZQ) -->
+<!-- YOUTUBE:END -->
+
+---
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Mental Health Messiah - A twitter bot for Sentimental Analysis of Covid19 Tweets.](https://www.youtube.com/watch?v=t_qRhyT68vM)
-- [Twitter Sentimental analysis on Covid19 Tweets with a visualisation Dashboard](https://www.youtube.com/watch?v=6VqK6cLwGZQ)
+- [Aatmanirbhar Sanchar: Self-Sufficient Communications](https://youtu.be/CyNPfndji-U)
+- [Divya-Drishti: An Independent Aid for the Visually Impaired](https://youtu.be/lRjCKhczHtY)
+- [Mental Health Messiah - A twitter bot and dashboard for Sentimental Analysis of Covid19 Tweets. (Summarized)](https://www.youtube.com/watch?v=t_qRhyT68vM)
 - [Automatic Number Plate Recognition system - Automated Parking](https://www.youtube.com/watch?v=i64AUqCuKV8)
 - [Social Distancing app with a touch of yoga(Healthy While Distant)](https://www.youtube.com/watch?v=uJne7uuiEUM)
 - [Pandemics! A Harsh Reality :(](https://www.youtube.com/watch?v=_IF3PlJBwh4)
+<!-- - [Twitter Sentimental analysis on Covid19 Tweets with a visualisation Dashboard](https://www.youtube.com/watch?v=6VqK6cLwGZQ) -->
 <!-- YOUTUBE:END -->
 
 ---
