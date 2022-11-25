@@ -3,9 +3,10 @@
 ## I'm a Student, Developer, Gamer!
 - 📖 Pursuing Masters in Computer Science at UCSD
 - 🔭 Most recent project and publication: [Aatmanirbhar Sanchar: Self-Sufficient Communications!][twitterMHM]
-- 🌱 I’m currently learning everything 😂
-- 🥅 2022 Goals: Do something different than last year
-- 🎮 Fun fact: I love to play games and follow F1
+- 🌱 I’m currently learning the fundaments in AI/ML.
+- 🥅 2022 Goals: Gain everything I can from my masters and excel in it.
+- 🎮 Fun fact: I love to playing video games and follow F1 as a hobby.
+- 🔍 Actively Looking for 2023 Internships.
 
 ### Connect with me:
 
