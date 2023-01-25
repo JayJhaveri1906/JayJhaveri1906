@@ -1,7 +1,7 @@
 ### Hi there, I'm Jay - aka [ConsoleBotTrysPC2](https://steamcommunity.com/id/JayJhaveri1906/) 👋
 
 ## I'm a Student, Developer, Gamer!
-- 📖 Pursuing Masters in Computer Science at UCSD
+- 📖 Pursuing Masters in Computer Science at UCSD specializing in Machine Learning and Artificial Intelligence
 - 🔭 Most recent project and publication: [Aatmanirbhar Sanchar: Self-Sufficient Communications!][twitterMHM]
 - 🌱 I’m currently learning the fundaments in AI/ML.
 - 🥅 2022 Goals: Gain everything I can from my masters and excel in it.
