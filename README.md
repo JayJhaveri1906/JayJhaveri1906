@@ -3,7 +3,8 @@
 ## I'm a Student, Developer, Gamer!
 - 📖 Pursuing Masters in Computer Science at UCSD specializing in Machine Learning and Artificial Intelligence
 - 🔭 Most recent project and publication: [Aatmanirbhar Sanchar: Self-Sufficient Communications!][twitterMHM]
-- 🌱 I’m currently learning the fundaments in AI/ML.
+- 🌱 I’m currently learning the fundaments in Deep Learning and Reinforcement Learning.
+  - 🏎 Recent Projects include: [Q-Learning & DeepQ-Learning Autonomous Driving][QlearnCar], Semantic Segmentation using transfer learning and U-Net.
 - 🥅 2022 Goals: Gain everything I can from my masters and excel in it.
 - 🎮 Fun fact: I love playing video games and follow F1 as a hobby.
 - 🔍 Actively Looking for 2023 Internships.
@@ -82,6 +83,7 @@ My CERTIFICATES/ACHIEVEMENTS are available [here](https://github.com/JayJhaveri1
 [steam]: https://steamcommunity.com/id/JayJhaveri1906/
 <!--[website]: https://codeSTACKr.com-->
 [twitterMHM]: https://github.com/JayJhaveri1906/Aatmanirbhar-Sanchar
+[QlearnCar]: https://github.com/JayJhaveri1906/QLearning-F1-Car-Autonomous-Driving
 [twitter]: https://twitter.com/Jay_Jhaveri1906
 [youtube]: https://www.youtube.com/channel/UCINzDDZPKuOpgzDYNNmE6Lw
 [instagram]: https://www.instagram.com/jayjhaveri1906/
