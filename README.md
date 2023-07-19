@@ -81,6 +81,9 @@ My CERTIFICATES/ACHIEVEMENTS are available [here](https://github.com/JayJhaveri1
 ---
 <img align="left" alt="JayJhaveri1906's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JayJhaveri1906&show_icons=true&hide_border=true" />
 
+
+##### A.K.A.: Jay Jhaveri, JayJhaveri1906, ConsoleBotTrysPC2, ConsoleBotTryPC, ConsoleBotTrysPC
+
 [steam]: https://steamcommunity.com/id/JayJhaveri1906/
 <!--[website]: https://codeSTACKr.com-->
 [twitterMHM]: https://github.com/JayJhaveri1906/Aatmanirbhar-Sanchar
