@@ -6,8 +6,9 @@
 - 🌱 I’m currently learning the fundaments in Deep Learning and Reinforcement Learning.
   - 🏎 Recent Projects include: [Q-Learning & DeepQ-Learning Autonomous Driving][QlearnCar], Semantic Segmentation using transfer learning and U-Net.
 - 🥅 2022 Goals: Gain everything I can from my masters and excel in it.
-- 🎮 Fun fact: I love playing video games and follow F1 as a hobby.
-- 🔍 Actively Looking for 2023 Internships.
+- 🎮 Fun fact: I love playing table tennis, badminton, and FPS video games, and I follow F1 as a hobby.
+- 🔍 Actively Looking for 2024 SDE/ML Jobs.
+- 👥 AKA: JayJhaveri1906, ConsoleBotTrysPC2, ConsoleBotTryPC, ConsoleBotTrysPC
 
 ### Connect with me:
 
@@ -81,8 +82,6 @@ My CERTIFICATES/ACHIEVEMENTS are available [here](https://github.com/JayJhaveri1
 ---
 <img align="left" alt="JayJhaveri1906's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JayJhaveri1906&show_icons=true&hide_border=true" />
 
-
-##### A.K.A.: Jay Jhaveri, JayJhaveri1906, ConsoleBotTrysPC2, ConsoleBotTryPC, ConsoleBotTrysPC
 
 [steam]: https://steamcommunity.com/id/JayJhaveri1906/
 <!--[website]: https://codeSTACKr.com-->
